@@ -1,2 +1,5 @@
-# Data-preprocessing-tools
-This is a code sample that is used to check the Datasets for  any information 
+<h1>Data Preprocessing Tools</h1>
+
+1. To Check Missing Data
+2. To Encode Categorical Data
+3.  
